@@ -14,10 +14,8 @@ curl -X 'GET' \
   -H 'Authorization: Bearer {token}
 ```
 
-### Response
-```json
-# get_subscriptions.json
-```
+[Response](./get_subscriptions.json)
+
 
 
 
@@ -31,8 +29,4 @@ curl -X 'GET' \
 ```
 
 
-### Response
-
-```json
-# offers/get_gold_offer.json
-```
+[Response](./offers/get_gold_offer.json)
