@@ -1,0 +1,31 @@
+{
+    "productId": "gold",
+    "type": "subs",
+    "title": "Gold (com.revenuecat.purchases_sample_marcos (unreviewed))",
+    "name": "Gold",
+    "localizedIn": ["en-US"],
+    "skuDetailsToken": "AEuhp4Lz3b41Ba0VCJuCF6lPKXovfpqTazU2DDH_3gFyxBqMqVnAHKNOJGeioRzTdiVd",
+    "subscriptionOfferDetails": [{
+        "offerIdToken": "AUj\/Yhj\/p88LQ3he6MTgykubqWDrWd0SQVhQ5KprkhizM51jjDrAmhIEIgEPy8XLdrSiLM5k2jetrU6Tb\/gl2WNEDb4Ey+cz0po4tq5KaVCm3zzGLDlc",
+        "basePlanId": "monthly",
+        "pricingPhases": [{
+            "priceAmountMicros": 11990000,
+            "priceCurrencyCode": "EUR",
+            "formattedPrice": "€11.99",
+            "billingPeriod": "P1M",
+            "recurrenceMode": 1
+        }],
+        "offerTags": []
+    }, {
+        "offerIdToken": "AUj\/YhgYOtBSEHl\/YnkuddYGgFNtETLaBXjiJkXgDSw4xgsAW+UKtwnhiAZgrKKkmhgURxEBleLqX2npxrjcte+oku9R58Ji6MFY+POSBV3HUSk=",
+        "basePlanId": "yearly",
+        "pricingPhases": [{
+            "priceAmountMicros": 119990000,
+            "priceCurrencyCode": "EUR",
+            "formattedPrice": "€119.99",
+            "billingPeriod": "P1Y",
+            "recurrenceMode": 1
+        }],
+        "offerTags": []
+    }]
+}
